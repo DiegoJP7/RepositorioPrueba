@@ -4,7 +4,7 @@ package hilos;
  *
  * @author alexa
  */
-
+//Prueba
 public class ContadorHilo extends Thread {
     public int inicio;
     public int fin;

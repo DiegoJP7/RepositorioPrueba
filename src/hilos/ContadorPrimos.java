@@ -6,7 +6,8 @@ import java.util.List;
 public class ContadorPrimos {
 
     public static void main(String[] args) {
-
+        System.out.println("Hola mundo");
+        //prueba
         /*
         Aqui tenemos un buen ejemplo de como no se debe hacer hilos
          */

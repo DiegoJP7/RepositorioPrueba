@@ -6,6 +6,11 @@ import java.util.List;
 public class ContadorPrimos {
 
     public static void main(String[] args) {
+
+        /*
+        Aqui tenemos un buen ejemplo de como no se debe hacer hilos
+         */
+
         int inicio = 1;
         int fin = 100;
         int numeroHilos = 4;
